@@ -1,0 +1,8 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+
+RewriteBase /
+
+AddType text/cache-manifest .manifest
+
+
+
